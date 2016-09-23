@@ -1,3 +1,4 @@
+<?php require "login/loginheader.php"; ?>
 <?php
 //Pull '$base_url' and '$signin_url' from this file
 include 'globalcon.php';

@@ -1,3 +1,4 @@
+<?php require "login/loginheader.php"; ?>
 <?php
 //DO NOT ECHO ANYTHING ON THIS PAGE OTHER THAN RESPONSE
 //'true' triggers login success

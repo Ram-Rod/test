@@ -1,3 +1,4 @@
+<?php require "login/loginheader.php"; ?>
 <?php
 require 'includes/functions.php';
 include_once 'config.php';

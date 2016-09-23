@@ -1,3 +1,4 @@
+<?php require "login/loginheader.php"; ?>
 <?php
   session_start();
 

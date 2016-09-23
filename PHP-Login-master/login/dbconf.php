@@ -1,3 +1,4 @@
+<?php require "login/loginheader.php"; ?>
 <?php
 //DATABASE CONNECTION VARIABLES
 $host = "localhost"; // Host name

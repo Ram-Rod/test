@@ -1,3 +1,4 @@
+<?php require "login/loginheader.php"; ?>
 <?php
 //SYSTEM SETTINGS
 $base_url = 'http://' . $_SERVER['SERVER_NAME'];

@@ -61,4 +61,4 @@ if ($pw1 != $pw2) {
         //Validation error from empty form variables
         echo 'An error occurred on the form... try again';
     }
-};
+};?>

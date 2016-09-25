@@ -11,3 +11,4 @@ $db_name = "Bayside_Camp"; // Database name
 $tbl_prefix = ""; //***PLANNED FEATURE, LEAVE VALUE BLANK FOR NOW*** Prefix for all database tables
 $tbl_members = $tbl_prefix."members";
 $tbl_attempts = $tbl_prefix."loginAttempts";
+?>
